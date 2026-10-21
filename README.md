@@ -5,6 +5,7 @@ trabalho para o capas (replit + expo go)
 - 1. ter o app do "Expo GO" no aparelho
 - 2. nodejs instalado (node.js | versão moderna => 26.x (Current) | estabilidade para produção => 24.x+ (LTS))
 - 3. Execução
+
 -- entrar no repositório 
 ```sh
 cd orelha

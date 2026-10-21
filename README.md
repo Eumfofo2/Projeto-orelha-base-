@@ -14,4 +14,4 @@ cd orelha
 npx expo start
 
 ```
-- 4. pegar __QR Code__ ou __Link__ para o expo go e depois abrir
+-- 4. pegar __QR Code__ ou __Link__ para o expo go e depois abrir
